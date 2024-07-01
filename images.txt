@@ -4,3 +4,24 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/librespeed/speedtest:latest
+adolfintel/speedtest:latest
+amilys/embyserver:4.8.0.56
+ddsderek/xiaoya-emd:latest
+docker.chenby.cn/jxxghp/moviepilot:latest
+jxxghp/moviepilot:latest
+dockerhub.anzu.vip/linuxserver/transmission:latest
+estrellaxd/auto_bangumi:latest
+ghcr.io/estrellaxd/auto_bangumi:latest
+ghcr.nju.edu.cn/home-assistant/home-assistant:stable
+haishanh/yacd:latest
+homeassistant/home-assistant:latest
+homeassistant/home-assistant:stable
+iyuucn/iyuuplus-dev:latest
+dockerhub.anzu.vip/iyuucn/iyuuplus-dev:latest
+linuxserver/qbittorrent:latest
+mysql/mysql-server:5.7
+portainer/helper-reset-password:latest
+portainer/portainer-ce:latest
+quantumobject/docker-zoneminder:latest
+xhongc/music_tag_web:2.1.0
+xiaoyaliu/alist:hostmode
