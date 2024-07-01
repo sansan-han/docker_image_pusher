@@ -25,3 +25,4 @@ portainer/portainer-ce:latest
 quantumobject/docker-zoneminder:latest
 xhongc/music_tag_web:2.1.0
 xiaoyaliu/alist:hostmode
+xhongc/music_tag_web:latest
